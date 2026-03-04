@@ -1,0 +1,5 @@
+[server]
+port = 8080
+
+[ratelimit]
+requests_per_minute = 100
